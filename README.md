@@ -6,7 +6,7 @@ The  objective  of  this dataset is to predict the diagnosis according to lesion
 
 ## Method used
 Correlation have been tested and unecessary parameters have been removed, Principal component analysis(PCA) is used to reduce the dimensionality of parameters.
-Then we train the model on splitted data using k-nearest neighbors algorithm, to classify and predict future diagnosis.
+Then we train the model on splitted data using k-nearest neighbors algorithm, in order to classify and predict future diagnosis.
 
 ## Built in
 Jupyter Notebook
