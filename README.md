@@ -11,5 +11,5 @@ Then we train the model on splitted data using k-nearest neighbors algorithm, in
 ## Built in
 Jupyter Notebook
 
-## Author
+## Author 
 * **HARAKI YOUNESS** - (https://github.com/Codeharaki)
