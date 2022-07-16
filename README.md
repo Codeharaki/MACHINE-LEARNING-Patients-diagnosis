@@ -12,4 +12,4 @@ Then we train the model on splitted data using k-nearest neighbors algorithm, in
 Jupyter Notebook
 
 ## Author 
-* **HARAKI YOUNESS** - (https://github.com/Codeharaki)
+* **HARAKI YOUNESS** - (https://www.linkedin.com/in/yharaki/)
